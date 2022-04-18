@@ -9,5 +9,8 @@ print(a[2])
 print(a[3])
 
 #Printing String by
-'''for i in a:
-    print(i)'''
+'''
+for i in a:
+    print(i)
+    
+    '''
