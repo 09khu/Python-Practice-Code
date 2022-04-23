@@ -1,4 +1,4 @@
-#Program to calculate  factorial through recursion
+#Program to calculate  factorial through recursion using functions
 
 def fact(x):
     y=1
