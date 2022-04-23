@@ -3,7 +3,7 @@
     print(n)
 
 
-print("This script is intended to swap the values of two data variable using a third temporary variable")
+print("Swap the values of two data variable using a third temporary variable")
 a=int(input("Enter the value of a : "))
 b=int(input("Enter the value of b : "))
 print("Before swapping")
@@ -19,7 +19,7 @@ print("Values after swapping : ")
 print("a = "+str(a))
 print("b = "+str(b))'''
 
-print("This script is intended to swap the values of two data variable using a third temporary variable")
+print("Swap the values of two data variable using a third temporary variable")
 a=int(input("Enter the value of a : "))
 b=int(input("Enter the value of b : "))
 print("Before swapping")
