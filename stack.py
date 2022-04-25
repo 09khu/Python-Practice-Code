@@ -1,6 +1,4 @@
 
-
-
 # Python program of stack implementation using list
  
 stack = []
@@ -15,6 +13,7 @@ print(stack)
  
 
 print('\nElements popped from stack:')
+#pop elements from stack
 print(stack.pop())
 print(stack.pop())
 print(stack.pop())
