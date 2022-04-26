@@ -8,7 +8,7 @@ print(type(x))
 #Third party library is made to used multidimensional array
 #python pacakge manager pip is need to be install to use numpy
 
-'''In jupiter'''
+''' In Jupiter notebook'''
 import numpy as np
 x = np.array([[12,13,14],[15,16,17]])
 print(x)
