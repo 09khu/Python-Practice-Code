@@ -14,8 +14,8 @@ p=fx/fy
 print("permutation = ",p)'''
 
 
-
-import Factorial_recursion as f
+#Here we import user defined module recursion
+import recursion as f
 x=int(input("Enter total : "))
 y=int(input("Enter value : "))
 fx=f.fact(x)
